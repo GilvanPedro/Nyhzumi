@@ -5,7 +5,7 @@
 ## 🙏 Agradecimentos
 
 - Aos desenvolvedores das bibliotecas e ferramentas utilizadas
-- A loba-demônio que inspirou esse projeto
+- A loba-demônio que inspirou esse projeto: [Nyhzumi](https://www.twitch.tv/nyhzumi)
 
 ### Artes de Fundo
 - [mrmat_99](https://x.com/mrmat_99)
