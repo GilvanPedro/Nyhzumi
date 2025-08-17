@@ -6,6 +6,11 @@
 
 Nyhzumi é um site de fãs dedicado à VTuber Nyhzumi, criado para centralizar informações, redes sociais e conteúdos relacionados. O projeto foi desenvolvido com foco em responsividade e experiência do usuário, garantindo uma boa visualização em diferentes dispositivos.
 
+### Artes
+- [mrmat_99](https://x.com/mrmat_99)
+- [ca_neka](https://x.com/ca_neka)
+- [arts_urah](https://x.com/arts_urah)
+
 ## ✨ Funcionalidades
 
 - **Página Inicial**: Apresentação da VTuber com links para redes sociais
@@ -73,10 +78,6 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 - Aos desenvolvedores das bibliotecas e ferramentas utilizadas
 - Aos criadores de conteúdo que inspiram este projeto
-
-### Artes de Fundo
-- [mrmat_99](https://x.com/mrmat_99)
-- [ca_neka](https://x.com/ca_neka)
 
 ---
 
