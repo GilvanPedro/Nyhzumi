@@ -1,6 +1,16 @@
-# Nyhzumi - Página de Fãs
+# Nyhzumi - Página de Fã
 
-![Banner do Projeto](img/nyh-model1.png)
+![Banner do Projeto](img/nyh-wall2.png)
+
+## 🙏 Agradecimentos
+
+- Aos desenvolvedores das bibliotecas e ferramentas utilizadas
+- Aos criadores de conteúdo que inspiram este projeto
+
+### Artes de Fundo
+- [mrmat_99](https://x.com/mrmat_99)
+- [ca_neka](https://x.com/ca_neka)
+
 
 ## 📝 Sobre o Projeto
 
@@ -69,11 +79,6 @@ O site foi desenvolvido para funcionar em diferentes dispositivos:
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## 🙏 Agradecimentos
-
-- À comunidade de fãs da Nyhzumi
-- Aos desenvolvedores das bibliotecas e ferramentas utilizadas
-- Aos criadores de conteúdo que inspiram este projeto
 
 ---
 
