@@ -5,7 +5,7 @@
 ## 🙏 Agradecimentos
 
 - Aos desenvolvedores das bibliotecas e ferramentas utilizadas
-- Aos criadores de conteúdo que inspiram este projeto
+- A loba-demônio que inspirou esse projeto
 
 ### Artes de Fundo
 - [mrmat_99](https://x.com/mrmat_99)
