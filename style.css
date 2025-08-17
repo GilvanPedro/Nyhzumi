@@ -43,6 +43,8 @@ body.index-page {
     background-size: cover;
     display: flex;
     flex-direction: column;
+    width: 100%;
+    overflow-x: hidden;
 }
 
 body.index-page::before {
@@ -62,13 +64,15 @@ body.index-page::before {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 2rem 1rem;
+    padding: 1rem;
     color: white;
     text-align: center;
-    max-width: 1200px;
+    max-width: 100%;
     margin: 0 auto;
     width: 100%;
     box-sizing: border-box;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .info-container h1 {
@@ -118,13 +122,15 @@ body.index-page::before {
 
 .conteudo {
     flex: 1;
-    min-width: 300px;
-    max-width: 600px;
+    min-width: 0;
+    width: 100%;
+    max-width: 100%;
     text-align: left;
     background: rgba(0, 0, 0, 0.5);
-    padding: 2rem;
+    padding: 1.5rem;
     border-radius: 10px;
     backdrop-filter: blur(5px);
+    box-sizing: border-box;
 }
 
 .texto p {
@@ -271,10 +277,47 @@ body.index-page::before {
     }
 }
 
+@media (max-width: 768px) {
+    .info {
+        flex-direction: column;
+        padding: 0 10px;
+    }
+    
+    .imagem-perfil {
+        width: 250px;
+        height: 250px;
+        margin-bottom: 1.5rem;
+    }
+    
+    .conteudo {
+        padding: 1.2rem;
+    }
+    
+    .texto p {
+        font-size: 1rem;
+        line-height: 1.5;
+    }
+    
+    .btn {
+        padding: 0.7rem 1.5rem;
+        font-size: 1rem;
+    }
+}
+
 @media (max-width: 480px) {
     .info-container h1 {
-        font-size: 2rem;
-        margin-bottom: 1.5rem;
+        font-size: 1.8rem;
+        margin-bottom: 1.2rem;
+        padding: 0 10px;
+    }
+    
+    .info-container {
+        padding: 1rem 0.5rem;
+    }
+    
+    .imagem-perfil {
+        width: 220px;
+        height: 220px;
     }
     
     .imagem-perfil {
@@ -743,6 +786,8 @@ p {
 
 .shorts_background {
     background-color: var(--bg-color-02);
+    padding-right: 200px;
+    padding-left: 200px;
 }
 
 .shorts {

@@ -2,16 +2,6 @@
 
 ![Banner do Projeto](img/nyh-wall2.png)
 
-## 🙏 Agradecimentos
-
-- Aos desenvolvedores das bibliotecas e ferramentas utilizadas
-- A loba-demônio que inspirou esse projeto: [Nyhzumi](https://www.twitch.tv/nyhzumi)
-
-### Artes de Fundo
-- [mrmat_99](https://x.com/mrmat_99)
-- [ca_neka](https://x.com/ca_neka)
-
-
 ## 📝 Sobre o Projeto
 
 Nyhzumi é um site de fãs dedicado à VTuber Nyhzumi, criado para centralizar informações, redes sociais e conteúdos relacionados. O projeto foi desenvolvido com foco em responsividade e experiência do usuário, garantindo uma boa visualização em diferentes dispositivos.
@@ -47,7 +37,7 @@ Nyhzumi é um site de fãs dedicado à VTuber Nyhzumi, criado para centralizar i
 
 ```
 nyhzumi-fansite/
-├── index.html         # Página inicial
+├── index.html          # Página inicial
 ├── about.html         # Página sobre
 ├── clips.html         # Página de clipes
 ├── socials.html       # Redes sociais
@@ -79,6 +69,14 @@ O site foi desenvolvido para funcionar em diferentes dispositivos:
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
+## 🙏 Agradecimentos
+
+- Aos desenvolvedores das bibliotecas e ferramentas utilizadas
+- Aos criadores de conteúdo que inspiram este projeto
+
+### Artes de Fundo
+- [mrmat_99](https://x.com/mrmat_99)
+- [ca_neka](https://x.com/ca_neka)
 
 ---
 
