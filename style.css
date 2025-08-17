@@ -498,8 +498,8 @@ body.about-page {
 /* Estilo base para elementos com animação de scroll */
 .scroll-animate {
     opacity: 0;
-    transform: translateY(30px);
-    transition: opacity 0.6s ease-out, transform 0.8s ease-out;
+    transform: translateY(20px);
+    transition: opacity 0.3s ease-out, transform 0.3s ease-out;
 }
 
 /* Classe ativada quando o elemento está visível */
@@ -510,15 +510,15 @@ body.about-page {
 
 /* Delays para animações em sequência */
 .scroll-animate.delay-1 {
-    transition-delay: 0.2s;
+    transition-delay: 0s;
 }
 
 .scroll-animate.delay-2 {
-    transition-delay: 0.4s;
+    transition-delay: 0s;
 }
 
 .scroll-animate.delay-3 {
-    transition-delay: 0.6s;
+    transition-delay: 0s;
 }
 
 /* Estilo para títulos da seção de lore */
