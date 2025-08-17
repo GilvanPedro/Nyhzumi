@@ -743,6 +743,8 @@ p {
 
 .shorts_background {
     background-color: var(--bg-color-02);
+    padding-right: 200px;
+    padding-left: 200px;
 }
 
 .shorts {
