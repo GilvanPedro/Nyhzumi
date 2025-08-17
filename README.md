@@ -47,7 +47,7 @@ Nyhzumi é um site de fãs dedicado à VTuber Nyhzumi, criado para centralizar i
 
 ```
 nyhzumi-fansite/
-├── index.html          # Página inicial
+├── index.html         # Página inicial
 ├── about.html         # Página sobre
 ├── clips.html         # Página de clipes
 ├── socials.html       # Redes sociais
